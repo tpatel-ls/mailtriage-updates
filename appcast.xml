@@ -58,5 +58,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/tpatel-ls/mailtriage-updates/releases/download/v1.1.9/MailTriage-1.1.9.zip" length="4856481" type="application/octet-stream" sparkle:edSignature="aZ4nO/YuGUZaXz46EE3A/yuxhoWu8YKTQ3fMcXS7DTGpOqzCq7+BKIdTGPimdQ/GBCCgIWQ5BM3J0kHQf99+AA=="/>
     </item>
+      <item>
+      <title>1.1.10</title>
+      <pubDate>Wed, 08 Jul 2026 22:17:16 -0500</pubDate>
+      <sparkle:version>202607082216</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/tpatel-ls/mailtriage-updates/releases/download/v1.1.10/MailTriage-1.1.10.zip" length="4868187" type="application/octet-stream" sparkle:edSignature="GBeapAGzEHlO5C5eQI9l+44Bq/0RyzbZNu//oihsLLuyhOgUhIif9rz+3aWzDLlJrPgTYr9SfzOMnn1WSwsgDA=="/>
+    </item>
   </channel>
 </rss>
